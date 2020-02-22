@@ -1,10 +1,4 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
-#include <room.h>
-using namespace std;
+#include "room.h"
 
 class hotel{
     public:

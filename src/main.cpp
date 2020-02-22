@@ -1,3 +1,4 @@
+#include "../include/hotel.h"
 int main() {
     int n;
     cin>>n;

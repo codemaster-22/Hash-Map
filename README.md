@@ -12,3 +12,4 @@ following operations:
 - If there is no person in the building with that ID -- print ‘-1’
 - Else print ID of all the persons sharing the room with him including him
 (Print the IDs in the order of allocation)
+- Hashfunction= ID % No_of_rooms

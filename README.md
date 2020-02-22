@@ -1,4 +1,4 @@
-# Hash-Map
+# Hotel-Accomodation
 Problem Statement:
 - There are a given number of rooms in a building with different maximum capacity.
 Every person who enters into a building is provided with a unique identification number

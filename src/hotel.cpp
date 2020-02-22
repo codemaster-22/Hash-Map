@@ -1,21 +1,4 @@
 #include "../include/hotel.h"
-void room::print()
-{
-    for(auto it:V)
-    {
-        cout<<it<<" ";
-    }
-    cout<<endl;
-}
-class hotel{
-    public:
-    vector<room*> P;
-    int room_count;
-    void setlimit(int n);
-    void insert(int patient);
-    bool search(int patient,int k);
-    hotel(int l):room_count(l){}
-};
 void hotel::setlimit(int n)
 {
     room* ptr=new room(n);

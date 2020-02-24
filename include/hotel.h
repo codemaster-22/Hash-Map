@@ -9,6 +9,6 @@ class hotel{
     void setlimit(int n);
     void insert(int patient);
     bool search(int patient,int k);
-    hotel(int l):room_count(l){}
+    hotel(int l);
 };
 #endif

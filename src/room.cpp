@@ -1,6 +1,9 @@
 #include "../include/room.h"
 
-room::room(
+room::room(int l)
+{
+    limit = l;
+}
 
 
 void room::print()

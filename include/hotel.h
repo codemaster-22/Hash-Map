@@ -1,5 +1,5 @@
-#ifndef ROOM_H 
-#define ROOM_H
+#ifndef HOTEL_H 
+#define HOTEL_H
 #include "room.h"
 
 class hotel{

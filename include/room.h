@@ -1,3 +1,5 @@
+#ifndef ROOM_H 
+#define ROOM_H
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -11,3 +13,4 @@ class room{
     void print();
     room(int l):limit(l){}
 };
+#endif

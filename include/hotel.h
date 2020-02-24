@@ -11,3 +11,4 @@ class hotel{
     bool search(int patient,int k);
     hotel(int l):room_count(l){}
 };
+#endif

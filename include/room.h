@@ -11,6 +11,6 @@ class room{
     int limit;
     vector<int> V;
     void print();
-    room(int l):limit(l){}
+    room(int l);
 };
 #endif

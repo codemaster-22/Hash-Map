@@ -1,4 +1,9 @@
 #include "../include/hotel.h"
+
+hotel::hotel(int l){
+    room_count = l;
+}
+
 void hotel::setlimit(int n)
 {
     room* ptr=new room(n);
